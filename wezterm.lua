@@ -54,7 +54,6 @@ end);
 return {
   color_scheme = color_scheme,
   font = wezterm.font_with_fallback({ "MonoLisa Custom", "JetBrains Mono", "Dank Mono", "RobotoMono Nerd Font Mono" }),
-  font_size = 16,
   initial_rows = 40,
   initial_cols = 105,
   window_padding = {
@@ -62,5 +61,6 @@ return {
     right = 5,
     top = 0,
     bottom = 0,
-  }
+  },
+  font_size = 18
 }
