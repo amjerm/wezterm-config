@@ -62,5 +62,5 @@ return {
     top = 0,
     bottom = 0,
   },
-  font_size = 18
+  font_size = 20
 }
